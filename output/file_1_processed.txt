@@ -1,0 +1,33 @@
+Heeey It Seems Like This Program Can Replace All
+Occurences Of many Words In One Time 😯
+Does It Work 🤔
+My Breakfast This Morning Was A Coffe ☕ and Biscot 🍪 🍪 🍪
+What About Tabulation \tsecond row
+Let's See 🤔
+😑
+it Doesn't work I this way 😑
+This Is How It Works 🙂
+First Column\tsecond column\tthird column
+see ?? 😉
+Great 😀
+
+Here are some extra symbols:
+😺 --> cute face
+❤️ --> heart
+😄 --> happy face
+😐 --> neutral
+😕 --> confused
+😂 --> tears of joy
+😜 --> playful
+😯/ --> surprised and unsure
+
+Phone numbers examples:
+Call me at 12-345678 or 98765432 or 01 234567
+
+Dates examples:
+Today is 2026/01/18 and yesterday was 2026-01-17.
+
+Orders examples:
+C123 was ordered
+code 99 is pending
+Order 12/123 confirmed

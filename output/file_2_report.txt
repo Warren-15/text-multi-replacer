@@ -1,0 +1,37 @@
+📊 FILE PROCESSING REPORT
+==================================================
+
+Original File: 📄 "file_2.txt"
+Processed File: 📝 "file_2_processed.txt"
+Report File: 📊 "file_2_report.txt"
+--------------------------------------------------
+
+ORIGINAL FILE INFO:
+----------------------------------------
+Total lines: 🖩 5
+Total replacements: 🖩 3
+
+REGEX REPLACEMENTS:
+----------------------------------------
+No regex replacements applied.
+----------------------------------------
+
+LITERAL REPLACEMENTS:
+----------------------------------------
+Find:     :)
+Replace:  🙂
+Count:    1
+----------------------------------------
+Find:     :^)
+Replace:  🤔
+Count:    1
+----------------------------------------
+Find:     (tab)
+Replace:  \t
+Count:    1
+----------------------------------------
+
+==================================================
+SUMMARY:
+Total replacements: Applied
+==================================================

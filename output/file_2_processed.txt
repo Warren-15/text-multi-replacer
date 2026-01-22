@@ -1,0 +1,5 @@
+My phone number is 12-345678
+Order code: C.123
+Another date: 2026-01-17
+Emoji test 🙂 and 🤔
+Tab test: \tsecond column

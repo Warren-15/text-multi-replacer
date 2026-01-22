@@ -1,0 +1,7 @@
+# HTML Remover Table
+<html>-->
+</html>-->
+<head>-->
+</head>-->
+<body>-->
+</body>-->
