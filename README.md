@@ -1,19 +1,3 @@
-<img width="401" height="384" alt="image" src="https://github.com/user-attachments/assets/5bc3411b-65cc-4c64-aaa9-ea0abc3ab1aa" />
-
-<img width="532" height="403" alt="image" src="https://github.com/user-attachments/assets/533b0703-1516-4c85-a55a-8110a02a18f9" />
-
-<img width="504" height="620" alt="image" src="https://github.com/user-attachments/assets/11d974fb-12c1-4fea-9056-ab1f67ea035c" />
-
-<img width="539" height="495" alt="image" src="https://github.com/user-attachments/assets/869bf096-875c-45b8-ab68-6af5c030e390" />
-
-<img width="536" height="587" alt="image" src="https://github.com/user-attachments/assets/2a9aabd3-861c-44bf-8852-54f28f40f31c" />
-
-<img width="654" height="547" alt="image" src="https://github.com/user-attachments/assets/1301e4c5-6bd8-465c-83e5-47ccc1b5cc16" />
-
-<img width="653" height="529" alt="image" src="https://github.com/user-attachments/assets/94b885e8-a4d5-4e97-875b-e74c20ba07f1" />
-
-
-
 
 # 📝 File Multi-Replacer - Complete Text Replacement Tool
 
